@@ -6,4 +6,4 @@ This is a line from R Studio.
 Edit from github online and changed the title.
 
 
-Adding a new line on my local R Studio.  vldafjkjfa 
+Adding a new line on my local R Studio.
