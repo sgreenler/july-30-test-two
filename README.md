@@ -7,3 +7,7 @@ Edit from github online and changed the title.
 
 
 Adding a new line on my local R Studio.
+
+Adding new lines, which were originally on a different branch to do a pull request. 
+
+Moooo changes
